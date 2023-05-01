@@ -122,6 +122,7 @@ I currently working as a <a href="https://www.linkedin.com/in/apurv3027/"><b>Ful
 ## Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/apurv3027/)
+[<img src="https://img.shields.io/badge/instagram-%23FF00AA.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_.apurv_patel30/)
 
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
