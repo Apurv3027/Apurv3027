@@ -124,7 +124,7 @@ I currently working as a <a href="https://www.linkedin.com/in/apurv3027/"><b>Ful
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/apurv3027/) &nbsp;  &nbsp;
 [<img src="https://img.shields.io/badge/instagram-%23FF00AA.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_.apurv_patel30/)
 &nbsp;  &nbsp;
-[<img src="https://img.shields.io/badge/Whatsapp-%2366ff99.svg?&style=for-the-badge&logo=whatsapp&logoColor=black" />]([https://www.instagram.com/_.apurv_patel30/](https://api.whatsapp.com/send?phone=919723510764&text=Hello))
+[<img src="https://img.shields.io/badge/Whatsapp-%2366ff99.svg?&style=for-the-badge&logo=whatsapp&logoColor=black" />](https://api.whatsapp.com/send?phone=919723510764&text=Hello)
 
 <!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" /> -->
 
