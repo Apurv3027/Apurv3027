@@ -64,11 +64,9 @@ class Designation(SoftwareDeveloper):
 class MySkills(ProgrammingSkills):
 
   def  __init__(self):
-    self.programing_language      =    ( 'PHP', 'Python', 'JavaScript', 'Flutter' )
-    self.databases                =    [ 'MySQL', 'MongoDB', 'SQLite', 'PostgreSQL', 'Firebase' ]
-    self.backend_frameworks       =    { 'Laravel', 'NodeJS', 'WordPress', 'Django' }
-    self.frontend_frameworks      =    [ ( 'NextJS' ) , ( 'VueJS' ), ( 'ReactJS' ), ( 'AngularJS' )  ]  
-    self.tech_stack               =    [ { stack: 'LAMP Stack' } , { stack : "WAMP Stack" }, { stack : "XAMPP Stack" } ]
+    self.programing_language      =    ( 'PHP', 'Flutter' )
+    self.databases                =    [ 'MySQL', 'Firebase' ]
+    self.backend_frameworks       =    { 'Laravel' } 
     self.learning_and_focusing_on =    ( 'ReactJS with NextJS', 'FAST API', 'Django', 'AWS Services', 'CI & CD Development' )
 
 
